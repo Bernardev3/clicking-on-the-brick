@@ -1,2 +1,4 @@
 # Clicking On The Brick
-Clicking On The Brick is a clicker browser game where you have to click on a brick lol. (This project is from 2021)
+Clicking On The Brick is a clicker browser game where you have to click on a brick lol.
+<br>
+(This project is from 2021)
